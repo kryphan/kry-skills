@@ -12,7 +12,10 @@ Viết cho **người nocode / non-tech** là chính: giải thích bằng ví d
 
 | Skill | Dùng để làm gì |
 |---|---|
+| [`kry-ux`](kry-ux/SKILL.md) | Đóng đinh **hành vi** app **trước khi build** — có màn nào, nút nào làm gì, luồng ra sao, lúc rỗng/lỗi/mất mạng hiện gì. Chạy theo khung đếm được nên không sót màn, không sót case. |
 | [`kry-system`](kry-system/SKILL.md) | Vẽ "bản vẽ" **System Design** cho app **trước khi build** — hỏi bạn 7 lớp (dữ liệu, vòng đời, phân quyền, kết nối ngoài, chịu tải, phòng hư) rồi tự phản biện bới lỗ hổng. Giải thích bằng ẩn dụ "mở quán ăn". |
+
+> **Thứ tự dùng khi làm app mới:** `kry-ux` (chốt hành vi) → `kry-system` (chốt nền) → rồi mới build.
 
 *(còn nữa — sẽ bổ sung dần)*
 
