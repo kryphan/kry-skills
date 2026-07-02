@@ -1,16 +1,16 @@
 ---
-name: ban-ve-app
+name: kry-system
 description: "Giúp người nocode vẽ 'bản vẽ' System Design cho app TRƯỚC khi build — hỏi bạn từng lớp (dữ liệu, vòng đời, phân quyền, kết nối ngoài, chịu tải, phòng hư), tự phản biện bới lỗ hổng, rồi xuất ra một bản thiết kế nền dễ đọc. Trigger khi bạn nói 'thiết kế app', 'app này cần bảng gì', 'kiến trúc cho app', 'data model', 'chốt nền kỹ thuật trước khi làm'."
 version: "1.0.0"
 ---
 
-# 🍜 Bản vẽ App — System Design cho người nocode
+# kry-system — System Design cho người nocode 🍜
 
 > Skill này giúp bạn **nghĩ trước cái "bản vẽ"** của app, giống chủ quán vẽ sơ đồ quán trước khi xây: bếp đặt đâu, kho ở đâu, đông khách thì luồng đi thế nào.
 >
 > Bạn **không cần biết code**. Bạn chỉ cần trả lời câu hỏi. AI lo phần dịch sang thuật ngữ kỹ thuật + chỉ chỗ dễ sập.
 >
-> **Cách dùng:** dán nguyên file này vào Claude/ChatGPT rồi mô tả app bạn muốn làm. (Hoặc để vào `.claude/skills/ban-ve-app/SKILL.md` nếu bạn xài Claude Code.)
+> **Cách dùng:** dán nguyên file này vào Claude/ChatGPT rồi mô tả app bạn muốn làm. (Hoặc để vào `.claude/skills/kry-system/SKILL.md` nếu bạn xài Claude Code.)
 
 ---
 
